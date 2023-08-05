@@ -1,0 +1,16 @@
+.app__placedetail-chip {
+    margin: 5px 5px 5px 0;
+}
+
+.app__placedetail-subtitle{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.app__placedetail-spacing {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
